@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 Studying Computer Science at Wilfrid Laurier University<br>Currently learning about Data Science & Software Development<br>
 
 
@@ -12,7 +12,7 @@ Studying Computer Science at Wilfrid Laurier University<br>Currently learning ab
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dylinh&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dylinh&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
