@@ -1,5 +1,5 @@
 # About Me
-Studying Computer Science at Wilfrid Laurier University<br>Currently learning about Data Science & Software Development<br>
+Studying Computer Science at Wilfrid Laurier University<br>Currently learning Data Science & Software Development<br>
 
 
 ## 🌐 Socials
