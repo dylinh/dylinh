@@ -1,3 +1,4 @@
 # About Me
 Computer Science @ WLU <br>
-Learning Front End!
+
+Right now, I'm learning front end software development!
