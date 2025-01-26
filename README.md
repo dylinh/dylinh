@@ -1,3 +1,3 @@
 # About Me
-Computer Science @ WLU
+Computer Science @ WLU <br>
 Learning Front End!
