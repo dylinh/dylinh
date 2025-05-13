@@ -19,7 +19,7 @@ React, Node.js, Git, Docker, Selenium, OpenPyXL, GCP
 ## 🎯 Goals
 
 - 💻 Land a fall 2025 internship
-- ⚙️ Develop a meanginful project
+- ⚙️ Develop a meaningful project
 - 📷 Grow my photography side hustle  
 - 📚 Keep learning — both in tech and outside of it
 
