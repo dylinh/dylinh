@@ -1,5 +1,5 @@
-# 💫 About Me:
-I love pizza
+# About Me:
+I like building.
 
 
 # 💻 Tech Stack:
