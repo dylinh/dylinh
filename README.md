@@ -7,3 +7,7 @@ Goals
 - Learn DevOPS, SRE, Platform Engineering
 - Explore C++
 - Learn AI Engineering
+
+Completed
+- Scrimba Frontend Developer Career Path
+- Launched my first iOS app with over 100+ users (meet a hawk)
