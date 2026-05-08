@@ -8,8 +8,9 @@
 - Learn DevOPS, SRE, Platform Engineering, ML
 - Explore C++
 - Learn AI Engineering
-- Build something amazing
+- Relearn mathematics so I can understand research papers and solve competition level problems
 
 **Completed**
 - Scrimba Frontend Developer Career Path
 - Launched my first iOS app with over 100+ users (meet a hawk)
+- Graduated Computer Science at Wilfrid Laurier University
