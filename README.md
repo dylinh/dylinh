@@ -1,4 +1,4 @@
-Books I've Read:
+Finished Reading:
 - Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover and Adewale Oshineye 
 
 Goals
