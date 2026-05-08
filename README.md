@@ -9,6 +9,7 @@
 - Explore C++
 - Learn AI Engineering
 - Relearn mathematics so I can understand research papers and solve competition level problems
+- Learn competitive programming
 
 **Completed**
 - Scrimba Frontend Developer Career Path
