@@ -4,9 +4,11 @@ Finished Reading
 Goals
 - Read more programming books
 - Finish my backend development course
+- Learn popular backend frameworks (probably node.js, spring boot, and django)
 - Learn DevOPS, SRE, Platform Engineering
 - Explore C++
 - Learn AI Engineering
+- Build something amazing
 
 Completed
 - Scrimba Frontend Developer Career Path
