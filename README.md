@@ -1,5 +1,5 @@
 # About Me
-Computer Science, Wilfrid Laurier 2022-2026
+Computer Science, Wilfrid Laurier University 2022-2026
 
 
 ## Socials:
