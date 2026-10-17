@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning web security!
+Computer Science, Wilfrid Laurier 2022-2026
 
 
 ## 🌐 Socials:
